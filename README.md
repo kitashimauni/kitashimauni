@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">
+  <a>Profile</a>
+</h1>
+
+<p align="center">
+  <img height="170" src="https://raw.githubusercontent.com/kitashimauni/kitashimauni/main/profile-summary-card-output/transparent/3-stats.svg">
+</p>
+
+<p align="center">
+  <img height="170" src="https://raw.githubusercontent.com/kitashimauni/kitashimauni/main/profile-summary-card-output/transparent/1-repos-per-language.svg">
+  <img height="170" src="https://raw.githubusercontent.com/kitashimauni/kitashimauni/main/profile-summary-card-output/transparent/2-most-commit-language.svg">
+</p>
