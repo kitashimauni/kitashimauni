@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitashimauni&theme=transparent"/>
+  <img src="https://raw.githubusercontent.com/kitashimauni/kitashimauni/main/profile-summary-card-output/transparent/0-profile-details.svg"/>
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitashimauni&theme=transparent"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kitashimauni&theme=transparent"/>
+  <img src="https://raw.githubusercontent.com/kitashimauni/kitashimauni/main/profile-summary-card-output/transparent/1-repos-per-language.svg"/>
+  <img src="https://raw.githubusercontent.com/kitashimauni/kitashimauni/main/profile-summary-card-output/transparent/2-most-commit-language.svg"/>
 </p>
